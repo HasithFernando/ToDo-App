@@ -5,7 +5,7 @@ This app allows users to add, delete, search, and toggle the completion status o
 
 ## 📱 Screenshots
 
-<img src="assets/screenshot1.png" width="200" /> <img src="assets/screenshot2.png" width="200" /> <img src="assets/screenshot3.png" width="200" />
+<img src="assets/screenshot1.png" width="200" />    <img src="assets/screenshot2.png" width="200" />    <img src="assets/screenshot3.png" width="200" />
 
 ## 🚀 Features
 
@@ -41,7 +41,7 @@ assets/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/HasithFernando/ToDo-App.git
-   cd todo_app
+   cd ToDo-App
    ```
 
 2. **Get dependencies**
